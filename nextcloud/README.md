@@ -52,6 +52,7 @@ Other tags than `daily` are built weekly. For security reasons, you should occas
 - **PHP_START_SERVERS** : php number of processes on startup *(default : 2)*
 - **PHP_MIN_SPARE_SERVERS** : php min of idle processes *(default : 1)*
 - **PHP_MAX_SPARE_SERVERS** : php max of idle processes *(default : 6)*
+- **SESSION_GC_MAXLIFETIME** : seconds after which data will be seen as 'garbage' and potentially cleaned up *(default : 1440)*
 - **CRON_PERIOD** : time interval between two cron tasks *(default : 15m)*
 - **CRON_MEMORY_LIMIT** : memory limit for PHP when executing cronjobs *(default : 1024m)*
 - **TZ** : the system/log timezone *(default : Etc/UTC)*
