@@ -22,7 +22,7 @@
 
 ### Tags
 - **latest** : latest stable version (21.0)
-- **21.0** : latest 20.0.x version (stable)
+- **21.0** : latest 21.0.x version (stable)
 - **20.0** : latest 20.0.x version (old stable)
 - **19.0** : latest 19.0.x version (deprecated)
 - ~~**18.0** : latest 18.0.x version (end-of-life)~~
